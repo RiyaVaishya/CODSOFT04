@@ -47,8 +47,11 @@ Plot the actual vs. predicted sales to visualize the model's accuracy.
 ## Dependencies:-
 
 pandas
+
 matplotlib
+
 seaborn
+
 scikit-learn
 
 ## Conclusion:-
